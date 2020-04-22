@@ -4,6 +4,6 @@ None,None,None,None,,,,,
 None,None,None,None,,,,,
 None,None,None,None,,,,,
 TimeBetweenSpanws,,,,,,,,
-6,,,,,,,,
+6.27,,,,,,,,
 MaterialPool:,ActiveTime,TimeBetweenEmissions,ImminentEmissionTime,ActiveSprite,InactiveSprite,EmissionImminenceSprite,ParticlePool(A/B/G),Quant
 Material1:,20,6,2,0,0,0,0/1/0,3
